@@ -1,2 +1,2 @@
 # PortalOS
-An OS based on Linux kernel.
+A open source OS based on Linux kernel.
